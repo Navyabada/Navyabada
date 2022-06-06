@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navyabada
+- 👋 Hi, I’m @Navyabh
 - 👀 I’m interested in codeing and AI
 - 🌱 I’m currently learning languages 
 - 💞️ I’m looking to collaborate on ...
