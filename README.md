@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navyabada
 - 👀 I’m interested in codeing and AI
-- 🌱 I’m currently learning languages in depth 
+- 🌱 I’m currently learning languages 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me navyabh1998@gmail.com
 
